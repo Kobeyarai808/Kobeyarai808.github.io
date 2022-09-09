@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/HA1.PNG
+image: img/HA1.PNG
 title: Hawaiian Airlines Internship Project
 permalink: projects/haInternship
 # All dates must be YYYY-MM-DD format!
@@ -20,15 +20,15 @@ As a guest flying with Hawaiian Airlines, after booking my flight, I would like 
 
 More information: Worked on the Web Modernization Project, writing Single-Page-Applications (SPAs) for customers to interact with our airline. Used Angular, Bootstrap, and ngRx to build front-end user interfaces. My Intern Project was to assist with rewriting the My Trips SPA found at https://www.hawaiianairlines.com/my-account/my-trips/manage-trip-itinerary. The SPA's purpose is to allow guests to look up  flight information by last name and their confirmation number. While viewing this app, guest may be compelled to upgrade their experience through strategically placed upsell components. I performed work on the itinerary page, flight-details page, guest-info pages, edit-guest-info-modal, and configured routes and guards. Large concepts gained from this project include learning angular, state management in ngRx, how to deep-link to other pages, and how to allow translation to different languages on large scale websites. <br>
 
-<img class="ui rounded image" src="../images/HA1.PNG"><br>
+<img class="ui rounded image" src="../img/HA1.PNG"><br>
 
-<img class="ui rounded image" src="../images/HA2.PNG"><br>
+<img class="ui rounded image" src="../img/HA2.PNG"><br>
 
-<img class="ui rounded image" src="../images/HA3.PNG"><br>
+<img class="ui rounded image" src="../img/HA3.PNG"><br>
 
-<img class="ui rounded image" src="../images/HA4.PNG"><br>
+<img class="ui rounded image" src="../img/HA4.PNG"><br>
 
-<img class="ui rounded image" src="../images/HA5.PNG"><br>
+<img class="ui rounded image" src="../img/HA5.PNG"><br>
 
 For any questions, comments, or concerns, please contact Kobey Arai at kobeya@hawaii.edu
  
