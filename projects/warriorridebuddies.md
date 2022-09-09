@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/warriorridebuddies.png
+image: img/warriorridebuddies.png
 title: Warrior Ride Buddies
 permalink: projects/warriorridebuddies
 # All dates must be YYYY-MM-DD format!
