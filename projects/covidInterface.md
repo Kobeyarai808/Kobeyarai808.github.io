@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/COVIDGraphic.jpg
+image: img/COVIDGraphic.jpg
 title: COVID-19 Graphic
 permalink: projects/covid19Grapic
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: In 2021, after a year of COVID-19 life, I decided to make a covid19 data parser and display the data in a Java Swing Window. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/COVIDGraphic.jpg">
+<img class="ui medium right floated rounded image" src="../img/COVIDGraphic.jpg">
 
 I created a COVID-19 Data Data Parser that parsed information off of a CSV file that had information collected from the United States. 
 
