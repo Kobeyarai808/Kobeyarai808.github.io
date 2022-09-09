@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/tikTakToe.png
+image: img/tikTakToe.png
 title: TicTacToe
 permalink: projects/tikTakToe
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: TikTakToe Game with a Computer Player that selects random spots and also a computer AI that never looses.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/tikTakToe.png">
+<img class="ui medium right floated rounded image" src="../img/tikTakToe.png">
 
 While stuck at home durring the COVID-19 Pandemic, I wanted to be useful and create a Tik Tak Toe Game. I built a regular Tik Tak Toe game along with a command line based GUI. Source code is on Github and can be viewed and built on your machine. There are 3 modes, A single-player against randomized moves computer, A single-player against a AI which will never loose, and finally a Multi-player which allows multiple players to play. 
 
