@@ -1,118 +1,210 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Kobey Arai",
+    "label": "Student and Software Engineer",
+    "picture": "https://kobeyarai808.github.io/images/kobey.jpeg",
+    "email": "kobeya@hawaii.edu",
+    "phone": "808-542-7606",
+    "website": "https://kobeyarai808.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2023.",
+    "location": {
+      "address": "",
+      "postalCode": "96789",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      {
+        "network": "github",
+        "username": "Kobeyarai808",
+        "url": "http://github.com/Kobeyarai808"
+      },
+      {
+        "network": "linkedin",
+        "username": "kobey-arai",
+        "url": "https://www.linkedin.com/in/kobey-arai-ba325a213/"
+      }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Data Structures",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Teaching/Learning",
+      "keywords": [
+      ]
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "level": "",
+      "keywords": [
+        "C",
+        "Java",
+        "Javascript",
+        "Python",
+        "SwiftUI",
+        "MeteorJS",
+        "SemanticUI",
+        "HTML",
+        "CSS",
+        "React",
+        "AngularJS",
+        "Angular",
+        "Bootstrap",
+        "ngRx",
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Windows",
+        "Unix Command Line",
+        "Git/GitHub/Bitbucket"
+      ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-09-01",
       "endDate": "Present",
+      "gpa": "3.44",
       "courses": [
+        "ICS 321",
+        "ICS 311",
+        "ICS 314",
+        "ICS 390",
+        "ICS 211",
+        "ICS 141",
+        "ICS 241",
+        "ICS 111",
+        "ICS 103"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Hawaiian Airlines Information Technology Digital Experience",
+      "position": "Intern",
+      "website": "https://www.hawaiianairlines.com/my-account/my-trips/manage-trip-itinerary",
+      "startDate": "2022-05-31",
+      "endDate": "2022-08-05",
+      "summary": "Worked on the Web Modernization Project, writing Single-Page-Applications (SPAs) for customers to interact with our airline. Used Angular, Bootstrap, and ngRx to build front-end user interfaces. My Intern Project was to assist with rewriting the My Trips SPA found at https://www.hawaiianairlines.com/my-account/my-trips/manage-trip-itinerary. Performed work on the Itinerary page, flight-details page, guest-info pages, and configured routes and guards. 
+ ",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Angular Front End",
+        "Bootstrap CSS",
+        "ngRx State Management",
+        "Completed Feature/Bug Tickets (JIRA)",
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "University of Hawaii System Information Technology Services",
+      "position": "Web App Developer",
+      "website": "https://www.test.hawaii.edu/uhgroupings/",
+      "startDate": "2020-08-01",
+      "endDate": "Present",
+      "summary": "Assists in the development of web applications for the University of Hawaii Information and Technology Services Identity and Access Management Team. Works on both AngularJS based front end and Java based back end.  Active participation in requesting features, fixing bug tickets, and working with university administrators to ensure proper function of apps. Was promoted to the current role of Branch Lead in September of 2021. In addition to previous responsibilities, now responsible for maintaining master branch codebase, approving and requesting feedback on pull requests. More information at https://www.test.hawaii.edu/uhgroupings/info
+ ",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Java Back-end API",
+        "Javascript Front-end UI",
+        "Completes Feature/Bug Tickets",
+        "Branch Lead - Approves Pull Requests",
+        "API Project Repository: https://github.com/Kobeyarai808/uh-groupings-api",
+        "UI Project Repository: https://github.com/Kobeyarai808/uh-groupings-ui"
+      ]
+    },
+    {
+      "company": "University of Hawaii Mathematics Department",
+      "position": "Undergraduate Teaching Assistant",
+      "website": "https://math.hawaii.edu/wordpress/",
+      "startDate": "2021-08-01",
+      "endDate": "2022-5-31",
+      "summary": "Teaches students concepts that are essential for their academic and professional career. As an undergraduate teaching assistant, I am responsible for holding office hours for students to attend when additional help is necessary, attending lectures to remain on the same page as the professor, hold recitations where I assist students in the completion of classwork and grade classwork and homework. ",
+      "highlights": [
+        "Applied Calculus 2",
+        "Pre-Calculus",
+        "Hold Recitations - Classwork",
+        "Assist Students with Homework",
+        "Hold Office Hours"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Miliani Lions Club",
+      "website": "http://mililanilions.org",
+      "position": "Treasurer",
+      "startDate": "2020-08-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "A part of a team that takes pride in the Mililani community. Active participation in service projects in Mililani, UH Manoa, and the Oahu community. ",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "The focus areas of Lions is Environment, World Hunger, Diabetes, Childhood Cancer, Vision",
+        "Responsible for maintaining www.mililanilions.org",
+        "Currently holds the role of Club Treasurer and Community Service Chairperson",
+        "Voted Lion of the Year in 2021",
+        "Currently assists older lions with operating their computers for basic tasks"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Association for Computing Machinery Manoa - Programming and Algorithms Special Interest Group",
+      "website": "http://acm.org",
+      "position": "Member",
+      "startDate": "2020-08-01",
+      "endDate": "Present",
+      "summary": "Programming and Algorithms is a special interest group within the larger Association for Computing Machinery Manoa organization",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Solve problem sets in teams using algorithms at weekly meetings"
       ]
     }
   ],
   "awards": [
     {
+      "title": "Dean's List",
+      "date": "Spring 2021-Spring 2022",
+      "awarder": "University of Hawaii",
+      "summary": "Undergraduate students are awarded the Dean's List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester. The grades used for calculation of grade point average will be those earned by a date determined by the Office of the Registrar. Colleges also may establish independent criteria for the award of Dean's List distinction with the approval of the Vice Chancellor for Academic Affairs"
+    },
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarship for first-time degree seeking students. Students must have a 3.5 GPA, 1200 SAT or 23 ACT upon the time of application to UH Manoa."
+    },
+    {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2020-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "STEM Honors",
+      "date": "2020",
+      "awarder": "State of Hawaii",
+      "summary": "The STEM Honors Certificate is available for graduates who complete a STEM Capstone Project along with complete 4 years of Math, Science and hold a GPA of 3.0 or above"
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Available upon request",
+      "reference": ""
     }
   ]
 }
