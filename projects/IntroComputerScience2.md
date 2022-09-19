@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+draft: true
 image: img/ICS211Graphic.png
 title: ICS 211 Homework Files
 permalink: projects/cotton
