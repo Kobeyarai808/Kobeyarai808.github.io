@@ -5,7 +5,7 @@ image: img/uh-groupings-logo-large.png
 title: UHGroupings
 permalink: projects/groupings
 # All dates must be YYYY-MM-DD format!
-date: 2021-09-02
+date: 2022-08-22
 labels:
   - Java
   - Java Swing API
