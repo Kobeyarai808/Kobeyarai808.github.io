@@ -192,6 +192,12 @@
   ],
   "awards": [
     {
+      "title": "2nd Place - Meteor Hackathon 2022",
+      "date": "Fall 2022",
+      "awarder": "Meteor",
+      "summary": "Out of 92 registered teams, my team placed second. We created a Web App using Meteor, React, Bootstrap, and the Google Maps API. The theme Making an Impact, our team sus-GAWKY created a gamified sustainability tracker which compares your progress with others in the community. In addition, the app will allow you to compare your community with other communities nearby to see how your community is doing in relation to others. "
+    },
+    {
       "title": "Dean's List",
       "date": "Spring 2021-Spring 2022",
       "awarder": "University of Hawaii",
