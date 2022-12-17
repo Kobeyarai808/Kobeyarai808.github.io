@@ -1,0 +1,231 @@
+{
+  "basics": {
+    "name": "Kobey Arai",
+    "label": "Student and Software Engineer",
+    "picture": "https://kobeyarai808.github.io/img/kobey.jpeg",
+    "email": "me@kobeyarai.com",
+    "phone": "808-542-7606",
+    "website": "https://kobeyarai.com",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2023.",
+    "location": {
+      "address": "",
+      "postalCode": "96789",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "Kobeyarai808",
+        "url": "http://github.com/Kobeyarai808"
+      },
+      {
+        "network": "linkedin",
+        "username": "kobey-arai",
+        "url": "https://www.linkedin.com/in/kobey-arai-ba325a213/"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Data Structures",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Teaching/Learning",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "Java",
+        "Javascript",
+        "Python",
+        "SwiftUI",
+        "MeteorJS",
+        "SemanticUI",
+        "HTML",
+        "CSS",
+        "React",
+        "AngularJS",
+        "Angular",
+        "Bootstrap",
+        "ngRx",
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Windows",
+        "Unix Command Line",
+        "Git/GitHub/Bitbucket"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "gpa": "3.44",
+      "courses": [
+        "ICS 321",
+        "ICS 311",
+        "ICS 314",
+        "ICS 390",
+        "ICS 211",
+        "ICS 141",
+        "ICS 241",
+        "ICS 111",
+        "ICS 103"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Hawaiian Airlines Information Technology Digital Experience",
+      "position": "Intern",
+      "website": "https://www.hawaiianairlines.com/my-account/my-trips/manage-trip-itinerary",
+      "startDate": "2022-05-31",
+      "endDate": "2022-08-05",
+      "summary": "Worked on the Web Modernization Project, writing Single-Page-Applications (SPAs) for customers to interact with our airline. Used Angular, Bootstrap, and ngRx to build front-end user interfaces. My Intern Project was to assist with rewriting the My Trips SPA found at https://www.hawaiianairlines.com/my-account/my-trips/manage-trip-itinerary. Performed work on the Itinerary page, flight-details page, guest-info pages, and configured routes and guards. 
+ ",
+      "highlights": [
+        "Angular Front End",
+        "Bootstrap CSS",
+        "ngRx State Management",
+        "Completed Feature/Bug Tickets (JIRA)",
+      ]
+    },
+    {
+      "company": "University of Hawaii System Information Technology Services",
+      "position": "Web App Developer",
+      "website": "https://www.test.hawaii.edu/uhgroupings/",
+      "startDate": "2020-08-01",
+      "endDate": "Present",
+      "summary": "Assists in the development of web applications for the University of Hawaii Information and Technology Services Identity and Access Management Team. Works on both AngularJS based front end and Java based back end.  Active participation in requesting features, fixing bug tickets, and working with university administrators to ensure proper function of apps. Was promoted to the current role of Branch Lead in September of 2021. In addition to previous responsibilities, now responsible for maintaining master branch codebase, approving and requesting feedback on pull requests. More information at https://www.test.hawaii.edu/uhgroupings/info
+ ",
+      "highlights": [
+        "Java Back-end API",
+        "Javascript Front-end UI",
+        "Completes Feature/Bug Tickets",
+        "Branch Lead - Approves Pull Requests",
+        "API Project Repository: https://github.com/Kobeyarai808/uh-groupings-api",
+        "UI Project Repository: https://github.com/Kobeyarai808/uh-groupings-ui"
+      ]
+    },
+    {
+      "company": "University of Hawaii Mathematics Department",
+      "position": "Undergraduate Teaching Assistant",
+      "website": "https://math.hawaii.edu/wordpress/",
+      "startDate": "2021-08-01",
+      "endDate": "2022-5-31",
+      "summary": "Teaches students concepts that are essential for their academic and professional career. As an undergraduate teaching assistant, I am responsible for holding office hours for students to attend when additional help is necessary, attending lectures to remain on the same page as the professor, hold recitations where I assist students in the completion of classwork and grade classwork and homework. ",
+      "highlights": [
+        "Applied Calculus 2",
+        "Pre-Calculus",
+        "Hold Recitations - Classwork",
+        "Assist Students with Homework",
+        "Hold Office Hours"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Miliani Lions Club",
+      "website": "http://mililanilions.org",
+      "position": "Treasurer",
+      "startDate": "2020-08-01",
+      "endDate": "Present",
+      "summary": "A part of a team that takes pride in the Mililani community. Active participation in service projects in Mililani, UH Manoa, and the Oahu community. ",
+      "highlights": [
+        "The focus areas of Lions is Environment, World Hunger, Diabetes, Childhood Cancer, Vision",
+        "Responsible for maintaining www.mililanilions.org",
+        "Currently holds the role of Club Treasurer and Community Service Chairperson",
+        "Voted Lion of the Year in 2021",
+        "Currently assists older lions with operating their computers for basic tasks"
+      ]
+    },
+    {
+      "organization": "Hawaii Lions District 50",
+      "website": "http://www.hawaiilions.org",
+      "position": "Information Technology Committee",
+      "startDate": "2022-07-01",
+      "endDate": "Present",
+      "summary": "I am a member of the Hawaii Lions District 50 Information Technology Committee which oversees all IT aspects of the Hawaii Lions orginization. IT needs include hawaiilions.org domain maintanance, the Hawaii Lions website, email, and other IT needs.  ",
+      "highlights": [
+        "Maintains the hawaiilions.org website which uses Wordpress, Google Map API and AWS",
+        "Provides IT tech support to the Hawaii Lions",
+        "Provides IT Consulting to resolve issues to make our orginization more efficient",
+        "Recieved the DG Gary IMUA coin from District Governer Gary Nip for going above and beyond the call of duty"
+      ]
+    },
+    {
+      "organization": "Association for Computing Machinery Manoa - Programming and Algorithms Special Interest Group",
+      "website": "http://acm.org",
+      "position": "Member",
+      "startDate": "2020-08-01",
+      "endDate": "Present",
+      "summary": "Programming and Algorithms is a special interest group within the larger Association for Computing Machinery Manoa organization",
+      "highlights": [
+        "Solve problem sets in teams using algorithms at weekly meetings",
+        "In August of 2022, became an officer which allows me to mentor underclassmen on Algorithms. This also provides as practice for gaining a better understanding of Algorithms. "
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "2nd Place - Meteor Hackathon 2022",
+      "date": "Fall 2022",
+      "awarder": "Meteor",
+      "summary": "Out of 92 registered teams, my team placed second. We created a Web App using Meteor, React, Bootstrap, and the Google Maps API. The theme Making an Impact, our team sus-GAWKY created a gamified sustainability tracker which compares your progress with others in the community. In addition, the app will allow you to compare your community with other communities nearby to see how your community is doing in relation to others. Link to the Github repo: https://github.com/sus-gawky/sus-gawky"
+    },
+    {
+      "title": "Dean's List",
+      "date": "Spring 2021-Spring 2022",
+      "awarder": "University of Hawaii",
+      "summary": "Undergraduate students are awarded the Dean's List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester. The grades used for calculation of grade point average will be those earned by a date determined by the Office of the Registrar. Colleges also may establish independent criteria for the award of Dean's List distinction with the approval of the Vice Chancellor for Academic Affairs"
+    },
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarship for first-time degree seeking students. Students must have a 3.5 GPA, 1200 SAT or 23 ACT upon the time of application to UH Manoa."
+    },
+    {
+      "title": "B+ Scholarship",
+      "date": "2020-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "STEM Honors",
+      "date": "2020",
+      "awarder": "State of Hawaii",
+      "summary": "The STEM Honors Certificate is available for graduates who complete a STEM Capstone Project along with complete 4 years of Math, Science and hold a GPA of 3.0 or above"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
