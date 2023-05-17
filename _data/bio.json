@@ -6,7 +6,7 @@
     "email": "me@kobeyarai.com",
     "phone": "808-542-7606",
     "website": "https://kobeyarai.com",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2023.",
+    "summary": "I am a Software Engineer who has extensive experience with Full Stack Web Development. I recieved my B.S. in Computer Science from the Department of Information and Computer Sciences at the University of Hawaii. I graduated in Spring, 2023.",
     "location": {
       "address": "",
       "postalCode": "96789",
@@ -178,11 +178,25 @@
       ]
     },
     {
-      "organization": "Association for Computing Machinery Manoa - Programming and Algorithms Special Interest Group",
-      "website": "http://acm.org",
-      "position": "Member",
+      "organization": "Association for Computing Machinery Manoa",
+      "website": "http://acmmanoa.org",
+      "position": "Chief Technology and Innovation Officer",
       "startDate": "2020-08-01",
-      "endDate": "Present",
+      "endDate": "2023-05-12",
+      "summary": "The Association for Computing Machinery Manoa is the University of Hawaii at Manoa's chapter of the international learned society Association for Computing Machinery (ACM). There are more than 860 professional and student ACM chapters worldwide. ACM brings together computing educators, researchers, and professionals to inspire dialogue, share resources, and address the field's challenges. As the world’s largest computing society, ACM strengthens the profession's collective voice through strong leadership, promotion of the highest standards, and recognition of technical excellence. The Chapter consists of 1,000+ members ranging from Faculty, Staff, Students, and Alumni. ",
+      "highlights": [
+        "Attend weekly board meetings",
+        "Brainstorm ideas for improving the productivity of the Chapter",
+        "Implement and manage software solutions that keep the Chapter efficient",
+        "Coordinated the Spring 2023 UH Tech and Intelligence Career Fair which brought 175 students with Computer Science and Tech backgrounds together with 31 of Hawaii's top Tech Industry employers",
+      ]
+    },
+    {
+      "organization": "Programming and Algorithms Special Interest Group",
+      "website": "http://acmmanoa.org",
+      "position": "Officer",
+      "startDate": "2020-08-01",
+      "endDate": "2023-05-12",
       "summary": "Programming and Algorithms is a special interest group within the larger Association for Computing Machinery Manoa organization",
       "highlights": [
         "Solve problem sets in teams using algorithms at weekly meetings",
@@ -199,19 +213,19 @@
     },
     {
       "title": "Dean's List",
-      "date": "Spring 2021-Spring 2022",
+      "date": "Spring 2021-Spring 2023",
       "awarder": "University of Hawaii",
       "summary": "Undergraduate students are awarded the Dean's List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester. The grades used for calculation of grade point average will be those earned by a date determined by the Office of the Registrar. Colleges also may establish independent criteria for the award of Dean's List distinction with the approval of the Vice Chancellor for Academic Affairs"
     },
     {
       "title": "Manoa Academic Merit Scholarship",
-      "date": "2020-Present",
+      "date": "2020-2023",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarship for first-time degree seeking students. Students must have a 3.5 GPA, 1200 SAT or 23 ACT upon the time of application to UH Manoa."
     },
     {
       "title": "B+ Scholarship",
-      "date": "2020-Present",
+      "date": "2020-2023",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
