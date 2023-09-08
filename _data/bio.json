@@ -101,11 +101,26 @@
   "work": [
     {
       "company": "Hawaiian Airlines Information Technology Digital Experience",
+      "position": "Associate Software Development Engineer",
+      "website": "https://www.hawaiianairlines.com/",
+      "startDate": "2022-08-05",
+      "endDate": "Present",
+      "summary": "Worked on the Web Modernization Project, writing Single-Page-Applications (SPAs) for customers to interact with our airline. Used Angular, Bootstrap, and ngRx to build front-end user interfaces.  
+ ",
+      "highlights": [
+        "Angular Front End",
+        "Bootstrap CSS",
+        "ngRx State Management",
+        "Completed Feature/Bug Tickets (JIRA)",
+      ]
+    },
+    {
+      "company": "Hawaiian Airlines Information Technology Digital Experience",
       "position": "Intern",
-      "website": "https://www.hawaiianairlines.com/my-account/my-trips/manage-trip-itinerary",
+      "website": "https://mytrips.hawaiianairlines.com/",
       "startDate": "2022-05-31",
       "endDate": "2022-08-05",
-      "summary": "Worked on the Web Modernization Project, writing Single-Page-Applications (SPAs) for customers to interact with our airline. Used Angular, Bootstrap, and ngRx to build front-end user interfaces. My Intern Project was to assist with rewriting the My Trips SPA found at https://www.hawaiianairlines.com/my-account/my-trips/manage-trip-itinerary. Performed work on the Itinerary page, flight-details page, guest-info pages, and configured routes and guards. 
+      "summary": "Worked on the Web Modernization Project, writing Single-Page-Applications (SPAs) for customers to interact with our airline. Used Angular, Bootstrap, and ngRx to build front-end user interfaces. My Intern Project was to assist with rewriting the My Trips SPA found at https://mytrips.hawaiianairlines.com/. Performed work on the Itinerary page, flight-details page, guest-info pages, and configured routes and guards. 
  ",
       "highlights": [
         "Angular Front End",
