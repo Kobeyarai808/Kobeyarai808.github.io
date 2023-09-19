@@ -80,21 +80,30 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2023)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2020-09-01",
       "endDate": "2023-05-12",
       "gpa": "3.44",
       "courses": [
-        "ICS 321",
-        "ICS 311",
-        "ICS 314",
-        "ICS 390",
-        "ICS 211",
-        "ICS 141",
-        "ICS 241",
-        "ICS 111",
-        "ICS 103"
+        "ICS 451, Data Networks",
+        "ICS 312, Machine Level and Systems Programming",
+        "ICS 332, Operating Systems",
+        "ICS 212, Program Structure in C and C++",
+        "ICS 311, Algorithms",
+        "ICS 414, Software Engineering II",
+        "ICS 314, Software Engineering I",
+        "ICS 390, Computing Ethics",
+        "ICS 496, Senior Capstone Project",
+        "ICS 321, Database Systems",
+        "ICS 428, Digital Forensics",
+        "ICS 427, Software Quality Assurance",
+        "ICS 426, Computer System Security",
+        "ICS 241, Discrete Math II",
+        "ICS 141, Discrete Math I",
+        "ICS 211, Introduction to Computer Science II",
+        "ICS 111, Introduction to Computer Science I",
+        "ICS 103, Computer Science Principles"
       ]
     }
   ],
