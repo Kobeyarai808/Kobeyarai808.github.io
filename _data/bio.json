@@ -84,7 +84,7 @@
       "studyType": "B.S.",
       "startDate": "2020-09-01",
       "endDate": "2023-05-12",
-      "gpa": "3.44",
+      "gpa": "3.68/4.00 Major GPA",
       "courses": [
         "ICS 451, Data Networks",
         "ICS 312, Machine Level and Systems Programming",
@@ -141,7 +141,7 @@
     {
       "company": "University of Hawaii System Information Technology Services",
       "position": "Web App Developer",
-      "website": "https://www.test.hawaii.edu/uhgroupings/",
+      "website": "https://www.hawaii.edu/uhgroupings/",
       "startDate": "2020-08-01",
       "endDate": "Present",
       "summary": "Assists in the development of web applications for the University of Hawaii Information and Technology Services Identity and Access Management Team. Works on both AngularJS based front end and Java based back end.  Active participation in requesting features, fixing bug tickets, and working with university administrators to ensure proper function of apps. Was promoted to the current role of Branch Lead in September of 2021. In addition to previous responsibilities, now responsible for maintaining master branch codebase, approving and requesting feedback on pull requests. More information at https://www.test.hawaii.edu/uhgroupings/info
@@ -175,16 +175,15 @@
     {
       "organization": "Miliani Lions Club",
       "website": "http://mililanilions.org",
-      "position": "Treasurer",
+      "position": "President and Membership Chair",
       "startDate": "2020-08-01",
       "endDate": "Present",
       "summary": "A part of a team that takes pride in the Mililani community. Active participation in service projects in Mililani, UH Manoa, and the Oahu community. ",
       "highlights": [
-        "The focus areas of Lions is Environment, World Hunger, Diabetes, Childhood Cancer, Vision",
-        "Responsible for maintaining www.mililanilions.org",
-        "Currently holds the role of Club Treasurer and Community Service Chairperson",
-        "Voted Lion of the Year in 2021",
-        "Currently assists older lions with operating their computers for basic tasks"
+        "The focus areas of Lions are Environment, World Hunger, Diabetes, Childhood Cancer, Vision",
+        "Hosts and maintains www.mililanilions.org, which uses WordPress hosted on a Raspberry Pi",
+        "Former Treasurer (20-22), Secretary (22-23), and Community Service Chairperson (22-23)",
+        "Voted Lion of the Year in 2021, Received numerous leadership awards",
       ]
     },
     {
@@ -195,10 +194,11 @@
       "endDate": "Present",
       "summary": "I am a member of the Hawaii Lions District 50 Information Technology Committee which oversees all IT aspects of the Hawaii Lions orginization. IT needs include hawaiilions.org domain maintanance, the Hawaii Lions website, email, and other IT needs.  ",
       "highlights": [
-        "Maintains the hawaiilions.org website which uses Wordpress, Google Map API and AWS",
+        "Maintains the hawaiilions.org website which uses Wordpress, Google Map API, and AWS Lightsail",
+        "System and Identity Access Management Administrator for member accounts such as Microsoft 365 and Microsoft Entra",
         "Provides IT tech support to the Hawaii Lions",
-        "Provides IT Consulting to resolve issues to make our orginization more efficient",
-        "Recieved the DG Gary IMUA coin from District Governer Gary Nip for going above and beyond the call of duty"
+        "Provides IT Consulting to resolve issues to make our organization more efficient",
+        "Received the DG Gary IMUA coin from District Governer Gary Nip for going above and beyond the call of duty"
       ]
     },
     {
@@ -209,9 +209,10 @@
       "endDate": "2023-05-12",
       "summary": "The Association for Computing Machinery Manoa is the University of Hawaii at Manoa's chapter of the international learned society Association for Computing Machinery (ACM). There are more than 860 professional and student ACM chapters worldwide. ACM brings together computing educators, researchers, and professionals to inspire dialogue, share resources, and address the field's challenges. As the world’s largest computing society, ACM strengthens the profession's collective voice through strong leadership, promotion of the highest standards, and recognition of technical excellence. The Chapter consists of 1,000+ members ranging from Faculty, Staff, Students, and Alumni. ",
       "highlights": [
-        "Attend weekly board meetings",
-        "Brainstorm ideas for improving the productivity of the Chapter",
+        "Attended weekly board meetings",
+        "Brainstormed ideas for improving the productivity of the Chapter",
         "Implement and manage software solutions that keep the Chapter efficient",
+        "Architected and Led a small team of web developers to create web applications including an attendance tracker which used React, Material UI, and Firebase",
         "Coordinated the Spring 2023 UH Tech and Intelligence Career Fair which brought 175 students with Computer Science and Tech backgrounds together with 31 of Hawaii's top Tech Industry employers",
       ]
     },
@@ -224,7 +225,7 @@
       "summary": "Programming and Algorithms is a special interest group within the larger Association for Computing Machinery Manoa organization",
       "highlights": [
         "Solve problem sets in teams using algorithms at weekly meetings",
-        "In August of 2022, became an officer which allows me to mentor underclassmen on Algorithms. This also provides as practice for gaining a better understanding of Algorithms. "
+        "In August of 2022, became an officer which allows me to mentor underclassmen on Algorithms. This also provides practice for gaining a better understanding of Algorithms. "
       ]
     }
   ],
@@ -233,7 +234,7 @@
       "title": "2nd Place - Meteor Hackathon 2022",
       "date": "Fall 2022",
       "awarder": "Meteor",
-      "summary": "Out of 92 registered teams, my team placed second. We created a Web App using Meteor, React, Bootstrap, and the Google Maps API. The theme Making an Impact, our team sus-GAWKY created a gamified sustainability tracker which compares your progress with others in the community. In addition, the app will allow you to compare your community with other communities nearby to see how your community is doing in relation to others. Link to the Github repo: https://github.com/sus-gawky/sus-gawky"
+      "summary": "Out of 92 registered teams, my team placed second. We created a Web App using Meteor, React, Bootstrap, and the Google Maps API. The theme Making an Impact, our team sus-GAWKY created a gamified sustainability tracker that compares your progress with others in the community. In addition, the app will allow you to compare your community with other communities nearby to see how your community is doing in relation to others. Link to the Github repo: https://github.com/sus-gawky/sus-gawky"
     },
     {
       "title": "Dean's List",
